@@ -1,6 +1,9 @@
-# my_face_detection
+# Smart_DoorLock_Mobile_Application
 
-A new Flutter project.
+
+This system is a smart door system using a mobile application. The software allows the user to lock and unlock the door. This door is quite handy for the smart house in today's day. This is a flutter project for developing the door lock mobile application.
+
+
 
 ## Getting Started
 
