@@ -1,7 +1,7 @@
 # Smart_DoorLock_Mobile_Application
 
 
-This system is a smart door system using a mobile application. The software allows the user to lock and unlock the door. This door is quite handy for the smart house in today's day. This is a flutter project for developing the door lock mobile application.
+This system is a smart door system using mobile application. The system allows the user to lock and unlock the door, user can saved a face into the system and also can check the unknown persons faces. This door is quite handy for the smart house in today's day. This is a flutter project for developing the door lock mobile application.
 
 ## User Interface
 
